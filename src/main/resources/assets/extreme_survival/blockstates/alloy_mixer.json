@@ -1,0 +1,49 @@
+{
+  "variants": {
+    "facing=east,powered=false": {
+      "model": "extreme_survival:block/alloy_mixer",
+      "y": 90
+    },
+    "facing=east,powered=true,lit=false": {
+      "model": "extreme_survival:block/alloy_mixer_on",
+      "y": 90
+    },
+    "facing=east,powered=true,lit=true": {
+      "model": "extreme_survival:block/alloy_mixer_lit",
+      "y": 90
+    },
+    "facing=north,powered=false": {
+      "model": "extreme_survival:block/alloy_mixer"
+    },
+    "facing=north,powered=true,lit=false": {
+      "model": "extreme_survival:block/alloy_mixer_on"
+    },
+    "facing=north,powered=true,lit=true": {
+      "model": "extreme_survival:block/alloy_mixer_lit"
+    },
+    "facing=south,powered=false": {
+      "model": "extreme_survival:block/alloy_mixer",
+      "y": 180
+    },
+    "facing=south,powered=true,lit=false": {
+      "model": "extreme_survival:block/alloy_mixer_on",
+      "y": 180
+    },
+    "facing=south,powered=true,lit=true": {
+      "model": "extreme_survival:block/alloy_mixer_lit",
+      "y": 180
+    },
+    "facing=west,powered=false": {
+      "model": "extreme_survival:block/alloy_mixer",
+      "y": 270
+    },
+    "facing=west,powered=true,lit=false": {
+      "model": "extreme_survival:block/alloy_mixer_on",
+      "y": 270
+    },
+    "facing=west,powered=true,lit=true": {
+      "model": "extreme_survival:block/alloy_mixer_lit",
+      "y": 270
+    }
+  }
+}

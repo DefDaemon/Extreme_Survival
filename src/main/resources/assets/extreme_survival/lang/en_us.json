@@ -1,0 +1,9 @@
+{
+  "item.extreme_survival.steel_ingot": "Steel Ingot",
+  "item.extreme_survival.steel_nugget": "Steel Nugget",
+
+  "block.extreme_survival.steel_block": "Steel Block",
+  "block.extreme_survival.alloy_mixer": "Alloy Mixer",
+
+  "tooltip.block.extreme_survival.steel_block": "A very strong metal made of iron and carbon"
+}

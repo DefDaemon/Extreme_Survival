@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "steel_ingot",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "extreme_survival:steel_nugget"
+    }
+  },
+  "result": {
+    "item": "extreme_survival:steel_ingot"
+  }
+}
